@@ -1,0 +1,14 @@
+{
+  "name": "GumtreeSniper",
+  "version": "0.0.0",
+  "description": "GumtreeSniper",
+  "main": "app.js",
+  "author": {
+    "name": "mic"
+  },
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
